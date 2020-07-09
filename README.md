@@ -8,7 +8,7 @@
 | show  | 否 |   true    | 控制picker显示隐藏 |
 | @pickerColor |   否   |   null   | 取色器发生取色动作触发，返回两种颜色格式：`{hex: '#ff0000', rgb: 'rgb(255, 0, 0)'}` |
 
-
+![image](https://img.cdn.aliyun.dcloud.net.cn/stream/plugin_screens/f1b9de20-c194-11ea-94ae-7111464e76c8_0.png?v=1594279801)
 
 ## Demo：
 
